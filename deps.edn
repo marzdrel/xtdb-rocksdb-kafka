@@ -1,0 +1,6 @@
+{:deps
+ {org.apache.kafka/kafka-clients {:mvn/version "3.2.0"}
+  com.xtdb/xtdb-http-server {:mvn/version "RELEASE"}
+  com.xtdb/xtdb-rocksdb {:mvn/version "RELEASE"}
+  com.xtdb/xtdb-core {:mvn/version "RELEASE"}
+  com.xtdb/xtdb-kafka {:mvn/version "RELEASE"}}}
